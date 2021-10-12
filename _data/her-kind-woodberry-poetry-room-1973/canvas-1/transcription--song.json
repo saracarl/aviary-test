@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://saracarl.github.io/aviary-test/her-kind-woodberry-poetry-room-1973/canvas-1/canvas/transcription--song.json",
+  "type": "AnnotationPage",
+  "label": "Transcription, Song",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/aviary-test/her-kind-woodberry-poetry-room-1973/canvas-1/canvas/transcription--song-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I won't complain. I've had some good days. I've had some hills to climb. But all of my good days, outweigh my bad days, and I, I won't complain.'",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/aviary-test/her-kind-woodberry-poetry-room-1973/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3557.98721,3585.804698"
+        }
+      }
+    }
+  ]
+}

@@ -27,6 +27,24 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/aviary-test/her-kind-woodberry-poetry-room-1973/canvas-1/canvas/transcription--song.json",
+            "label": "Transcription, Song"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/aviary-test/her-kind-woodberry-poetry-room-1973/canvas-1/canvas/transcription--poem.json",
+            "label": "Transcription, Poem"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/aviary-test/her-kind-woodberry-poetry-room-1973/canvas-1/canvas/transcription.json",
+            "label": "Transcription"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://saracarl.github.io/aviary-test/her-kind-woodberry-poetry-room-1973/canvas-1/canvas/sara.json",
             "label": "sara"
           }
